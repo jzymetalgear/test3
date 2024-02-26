@@ -31,5 +31,3 @@ async def main():
         # Sleep for 1 minute
         await asyncio.sleep(60)
 
-# Run the main function
-asyncio.run(main())
